@@ -31,13 +31,13 @@ There were three tasks during the program -
 ## Conclusion 💡
 ◾As we can see, mostly our new customers are between 25 to 48 years old.
 
-◾Number of customers from 48 to 59 years old has big drops on percentages.
+◾Number of customers from 48 to 59 years old have big drop in overall percentage of sales.
 
-◾As we can see, our new customers mostly Female with 50.6% purchases with total of 25,212 bikes
+◾As we can see, our new customers are mostly Female with 50.6% purchases with total of 25,212 bikes.
 
-◾Male contributed to 47.7% purchases with 23,765 bikes
+◾Male contributed to 47.7% purchases with 23,765 bikes.
 
-◾So we should focus on advertises on Female customers than Male customers
+◾So more focus should be on advertisements that attract Female customers as compared to Male customers.
 
 
 
