@@ -10,7 +10,7 @@ data and produce business results with the KPMG data analytics team.
 
 
 ## Problem Statement ❓
-There were three tasks during the program -
+Identifying and Recommending High Value Customers.There were three tasks during the program -
 - Data Quality Assessment
 - Data Insights
 - Data Insights and Presentation
@@ -27,8 +27,20 @@ There were three tasks during the program -
 
 5.MS Excel
 
+## Approach For Data Analysis 
+◾ Bike related purchases for last 3 years based on gender
+
+◾ Top industries contributing the maximum profit and bike related sales 
+
+◾ Wealth segment by age category
+
+◾ Number of cars owned in each state
+
+◾ Customer classification
 
 ## Conclusion 💡
+◾ The top 3 sectors bringing in the highest profit are: Financial Services, Health and Manufacturing.
+
 ◾As we can see, mostly our new customers are between 25 to 48 years old.
 
 ◾Number of customers from 48 to 59 years old have big drop in overall percentage of sales.
